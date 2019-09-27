@@ -1,5 +1,4 @@
-import calclulator as c
-
+import calculator as c
 
 class FooCalculator:
     """docstring for FooCalculator"""
